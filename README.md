@@ -13,7 +13,16 @@ HULA for Voron is designed with the same principles in mind.  The HULA centre co
 \
 \
 # BOM
-## NON-Printed Parts
+### NON-Printed Parts
 1) M3x12mm - 8pcs
 2) M3 nut - 8pcs
 3) F8-22M Thrust Bearings - 4 sets
+\
+### Printed Parts
+1) TPU Dampener - 4pcs
+2) TPU AirPad - 4pcs
+3) Top Case - 4pcs
+4) Bottom Case - 4pcs
+5) Center Core - 4pcs
+6) Feet adapter - 4pcs
+\
