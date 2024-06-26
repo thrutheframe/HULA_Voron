@@ -1,4 +1,4 @@
-# HULA for Voron (under construction)
+# HULA for Voron 
 ![HULA for Voron](https://github.com/thrutheframe/HULA_Voron/assets/68491566/2d44f706-aa4d-4024-b6c8-bb02da131682)
 
 ### What is HULA?
@@ -10,8 +10,7 @@ HULA for Voron is designed with the same principles in mind.  The HULA centre co
 
 <img src="https://github.com/thrutheframe/HULA_Voron/assets/68491566/5f26ce2b-adfa-4317-aae1-a93d0410473b" width="50%" height="50%">
 
-\
-\
+
 # BOM
 ### NON-Printed Parts
 1) M3x12mm - 8pcs
@@ -26,6 +25,7 @@ HULA for Voron is designed with the same principles in mind.  The HULA centre co
 4) Bottom Case - 4pcs
 5) Center Core - 4pcs
 6) Feet adapter - 4pcs
+
 
 # PRINTED PARTS
 Files for HULA for Voron are prepared on BambuSlicer and can be opened with OrcaSlicer. If you require the hardware for HULA (ie TPU parts. bearings & fasteners), see my regional vendors listed below. 
