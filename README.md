@@ -17,7 +17,8 @@ HULA for Voron is designed with the same principles in mind.  The HULA centre co
 1) M3x12mm - 8pcs
 2) M3 nut - 8pcs
 3) F8-22M Thrust Bearings - 4 sets
-\
+
+
 ### Printed Parts
 1) TPU Dampener - 4pcs
 2) TPU AirPad - 4pcs
@@ -25,4 +26,8 @@ HULA for Voron is designed with the same principles in mind.  The HULA centre co
 4) Bottom Case - 4pcs
 5) Center Core - 4pcs
 6) Feet adapter - 4pcs
-\
+
+# PRINTED PARTS
+Files for HULA for Voron are prepared on BambuSlicer and can be opened with OrcaSlicer. If you require the hardware for HULA (ie TPU parts. bearings & fasteners), see my regional vendors listed below. 
+
+Please download HULA for Voron Supplementary Guide for installation. I do my best to double-check and test the print profile I create. They are up to date with whatever changes I made to the designs. 
