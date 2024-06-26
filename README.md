@@ -12,4 +12,8 @@ HULA for Voron is designed with the same principles in mind.  The HULA centre co
 
 \
 \
-This is a test
+# BOM
+## NON-Printed Parts
+-M3x12mm - 8pcs
+-M3 nut - 8pcs
+-F8-22M Thrust Bearings - 4 sets
