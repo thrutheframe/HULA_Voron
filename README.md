@@ -37,3 +37,13 @@ Files for HULA for Voron are prepared on BambuSlicer and can be opened with Orca
 
 # INSTRUCTIONS
 Please download HULA for Voron Supplementary Guide for installation. I do my best to double-check and test the print profile I create. They are up to date with whatever changes I made to the designs. 
+
+# STEP and STL files
+1) I have included the step file to the base plates for those needing mods to fit existing mods.
+2) I will only share the STL of HULA.
+3) HULA is free to download for personal use.
+4) I recommend Orca Slicer for this project. The settings are prepared in the 3mf file. Please refer to the settings in Orca if you want to use your own preferred slicer (ie Cura) 
+
+
+#CONCLUSION & CAVEAT
+As with all my designs, Prototyping and testing were conducted to ensure printability and meet my expectations. However, I understand it may and may not work for you. I request that you read all instructions before printing and installing them at your discretion.
