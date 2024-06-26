@@ -12,7 +12,7 @@ HULA for Voron is designed with the same principles in mind.  The HULA centre co
 
 
 # BOM
-### NON-Printed Parts
+### Non-Printed Parts
 1) M3x12mm - 8pcs
 2) M3 nut - 8pcs
 3) F8-22M Thrust Bearings - 4 sets
@@ -29,5 +29,9 @@ HULA for Voron is designed with the same principles in mind.  The HULA centre co
 
 # PRINTED PARTS
 Files for HULA for Voron are prepared on BambuSlicer and can be opened with OrcaSlicer. If you require the hardware for HULA (ie TPU parts. bearings & fasteners), see my regional vendors listed below. 
+
+1) US & CA - https://voxelpla.com/products/hula-anti-vibration-damper
+2) EU - https://veetec3d.etsy.com/listing/1712091548/hula-anti-vibration-feet-for-3d-printers
+3) AU - https://jc3dmelb.com.au/products/hula-bambu-lab-x1-and-p1-anti-vibration-damper-feet
 
 Please download HULA for Voron Supplementary Guide for installation. I do my best to double-check and test the print profile I create. They are up to date with whatever changes I made to the designs. 
