@@ -34,4 +34,6 @@ Files for HULA for Voron are prepared on BambuSlicer and can be opened with Orca
 2) EU - https://veetec3d.etsy.com/listing/1712091548/hula-anti-vibration-feet-for-3d-printers
 3) AU - https://jc3dmelb.com.au/products/hula-bambu-lab-x1-and-p1-anti-vibration-damper-feet
 
+
+# INSTRUCTIONS
 Please download HULA for Voron Supplementary Guide for installation. I do my best to double-check and test the print profile I create. They are up to date with whatever changes I made to the designs. 
